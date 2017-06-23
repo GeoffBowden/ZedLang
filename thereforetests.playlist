@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="ParserTest.ParserTest_Therefores.LineParser_TooManyImplies_ReturnsInvalidSyntax" /><Add Test="ParserTest.ParserTest_Therefores.LineParser_ValidThereforeDefinition_ReturnsTherefore" /></Playlist>

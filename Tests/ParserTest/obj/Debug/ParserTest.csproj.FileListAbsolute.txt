@@ -1,0 +1,13 @@
+E:\Development\ZedLang\Tests\ParserTest\obj\Debug\ParserTest.csprojResolveAssemblyReference.cache
+E:\Development\ZedLang\Tests\ParserTest\bin\Debug\ParserTest.dll
+E:\Development\ZedLang\Tests\ParserTest\bin\Debug\ParserTest.pdb
+E:\Development\ZedLang\Tests\ParserTest\bin\Debug\ZedLang.dll
+E:\Development\ZedLang\Tests\ParserTest\bin\Debug\ZedLang.pdb
+E:\Development\ZedLang\Tests\ParserTest\obj\Debug\ParserTest.dll
+E:\Development\ZedLang\Tests\ParserTest\obj\Debug\ParserTest.pdb
+E:\Development\ZedLang\Tests\ParserTest\bin\Debug\ZedlandSyntacticElements.dll
+E:\Development\ZedLang\Tests\ParserTest\bin\Debug\ZedLangProgramData.dll
+E:\Development\ZedLang\Tests\ParserTest\bin\Debug\ZedlandSyntacticElements.pdb
+E:\Development\ZedLang\Tests\ParserTest\bin\Debug\ZedLangProgramData.pdb
+E:\Development\ZedLang\Tests\ParserTest\bin\Debug\ZedlandExecutor.dll
+E:\Development\ZedLang\Tests\ParserTest\bin\Debug\ZedlandExecutor.pdb

@@ -1,0 +1,9 @@
+E:\Development\ZedLang\ZedlandExecutor\bin\Debug\ZedlandExecutor.dll
+E:\Development\ZedLang\ZedlandExecutor\bin\Debug\ZedlandExecutor.pdb
+E:\Development\ZedLang\ZedlandExecutor\bin\Debug\ZedLangProgramData.dll
+E:\Development\ZedLang\ZedlandExecutor\bin\Debug\ZedlandSyntacticElements.dll
+E:\Development\ZedLang\ZedlandExecutor\bin\Debug\ZedLangProgramData.pdb
+E:\Development\ZedLang\ZedlandExecutor\bin\Debug\ZedlandSyntacticElements.pdb
+E:\Development\ZedLang\ZedlandExecutor\obj\Debug\ZedlangExecutor.csprojResolveAssemblyReference.cache
+E:\Development\ZedLang\ZedlandExecutor\obj\Debug\ZedlandExecutor.dll
+E:\Development\ZedLang\ZedlandExecutor\obj\Debug\ZedlandExecutor.pdb

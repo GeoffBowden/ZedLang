@@ -1,0 +1,11 @@
+E:\Development\ZedLang\obj\Debug\ZedLangParser.csprojResolveAssemblyReference.cache
+E:\Development\ZedLang\obj\Debug\ZedLang.dll
+E:\Development\ZedLang\obj\Debug\ZedLang.pdb
+E:\Development\ZedLang\bin\Debug\ZedLang.dll
+E:\Development\ZedLang\bin\Debug\ZedLang.pdb
+E:\Development\ZedLang\bin\Debug\ZedlandSyntacticElements.dll
+E:\Development\ZedLang\bin\Debug\ZedLangProgramData.dll
+E:\Development\ZedLang\bin\Debug\ZedlandSyntacticElements.pdb
+E:\Development\ZedLang\bin\Debug\ZedLangProgramData.pdb
+E:\Development\ZedLang\bin\Debug\ZedlandExecutor.dll
+E:\Development\ZedLang\bin\Debug\ZedlandExecutor.pdb

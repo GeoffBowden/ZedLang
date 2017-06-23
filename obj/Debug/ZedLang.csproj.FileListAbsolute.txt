@@ -1,0 +1,5 @@
+E:\Development\ZedLang\bin\Debug\ZedLang.dll
+E:\Development\ZedLang\bin\Debug\ZedLang.pdb
+E:\Development\ZedLang\obj\Debug\ZedLang.csprojResolveAssemblyReference.cache
+E:\Development\ZedLang\obj\Debug\ZedLang.dll
+E:\Development\ZedLang\obj\Debug\ZedLang.pdb

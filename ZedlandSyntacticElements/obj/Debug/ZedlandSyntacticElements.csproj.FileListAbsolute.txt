@@ -1,0 +1,5 @@
+E:\Development\ZedLang\ZedlandSyntacticElements\bin\Debug\ZedlandSyntacticElements.dll
+E:\Development\ZedLang\ZedlandSyntacticElements\bin\Debug\ZedlandSyntacticElements.pdb
+E:\Development\ZedLang\ZedlandSyntacticElements\obj\Debug\ZedlandSyntacticElements.dll
+E:\Development\ZedLang\ZedlandSyntacticElements\obj\Debug\ZedlandSyntacticElements.pdb
+E:\Development\ZedLang\ZedlandSyntacticElements\obj\Debug\ZedlandSyntacticElements.csprojResolveAssemblyReference.cache

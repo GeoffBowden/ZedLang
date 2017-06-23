@@ -1,0 +1,14 @@
+E:\Development\ZedLang\CommandLine\bin\Debug\CommandLine.exe.config
+E:\Development\ZedLang\CommandLine\obj\Debug\CommandLine.csprojResolveAssemblyReference.cache
+E:\Development\ZedLang\CommandLine\bin\Debug\CommandLine.exe
+E:\Development\ZedLang\CommandLine\bin\Debug\CommandLine.pdb
+E:\Development\ZedLang\CommandLine\obj\Debug\CommandLine.exe
+E:\Development\ZedLang\CommandLine\obj\Debug\CommandLine.pdb
+E:\Development\ZedLang\CommandLine\bin\Debug\ZedLang.dll
+E:\Development\ZedLang\CommandLine\bin\Debug\ZedLang.pdb
+E:\Development\ZedLang\CommandLine\bin\Debug\ZedlandSyntacticElements.dll
+E:\Development\ZedLang\CommandLine\bin\Debug\ZedLangProgramData.dll
+E:\Development\ZedLang\CommandLine\bin\Debug\ZedlandSyntacticElements.pdb
+E:\Development\ZedLang\CommandLine\bin\Debug\ZedLangProgramData.pdb
+E:\Development\ZedLang\CommandLine\bin\Debug\ZedlandExecutor.dll
+E:\Development\ZedLang\CommandLine\bin\Debug\ZedlandExecutor.pdb

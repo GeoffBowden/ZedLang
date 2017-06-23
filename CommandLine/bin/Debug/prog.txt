@@ -1,0 +1,4 @@
+predicate p > p
+proposition p
+proposition p implies p
+therefore p

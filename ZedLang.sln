@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZedLangParser", "ZedLangParser.csproj", "{8B46DB04-2A0B-42C4-B41C-C4B9302F31BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandLine", "CommandLine\CommandLine.csproj", "{51B2A968-C5D9-4666-A36E-A4865FB32031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParserTest", "Tests\ParserTest\ParserTest.csproj", "{4716F2EC-1F88-4522-B7EE-5E229DFE95EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZedLangProgramData", "ZedLangProgramData\ZedLangProgramData.csproj", "{91305754-0CB8-4CB1-82A5-A3AAF2BBC5C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZedLangSyntacticElements", "ZedlandSyntacticElements\ZedLangSyntacticElements.csproj", "{A42427BF-8DEB-481D-B22C-ECEDE776D20B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZedLangExecutor", "ZedlandExecutor\ZedLangExecutor.csproj", "{A4A3485C-EE51-42BB-B2EE-FA3C330FBB00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramExecutorTest", "..\ProgramExecutorTest\ProgramExecutorTest.csproj", "{39ACB531-5722-432E-8139-AB489A3AA790}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B46DB04-2A0B-42C4-B41C-C4B9302F31BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B46DB04-2A0B-42C4-B41C-C4B9302F31BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B46DB04-2A0B-42C4-B41C-C4B9302F31BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B46DB04-2A0B-42C4-B41C-C4B9302F31BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B2A968-C5D9-4666-A36E-A4865FB32031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B2A968-C5D9-4666-A36E-A4865FB32031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B2A968-C5D9-4666-A36E-A4865FB32031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B2A968-C5D9-4666-A36E-A4865FB32031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4716F2EC-1F88-4522-B7EE-5E229DFE95EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4716F2EC-1F88-4522-B7EE-5E229DFE95EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4716F2EC-1F88-4522-B7EE-5E229DFE95EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4716F2EC-1F88-4522-B7EE-5E229DFE95EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91305754-0CB8-4CB1-82A5-A3AAF2BBC5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91305754-0CB8-4CB1-82A5-A3AAF2BBC5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91305754-0CB8-4CB1-82A5-A3AAF2BBC5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91305754-0CB8-4CB1-82A5-A3AAF2BBC5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A42427BF-8DEB-481D-B22C-ECEDE776D20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42427BF-8DEB-481D-B22C-ECEDE776D20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42427BF-8DEB-481D-B22C-ECEDE776D20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42427BF-8DEB-481D-B22C-ECEDE776D20B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A3485C-EE51-42BB-B2EE-FA3C330FBB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A3485C-EE51-42BB-B2EE-FA3C330FBB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A3485C-EE51-42BB-B2EE-FA3C330FBB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A3485C-EE51-42BB-B2EE-FA3C330FBB00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39ACB531-5722-432E-8139-AB489A3AA790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39ACB531-5722-432E-8139-AB489A3AA790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39ACB531-5722-432E-8139-AB489A3AA790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39ACB531-5722-432E-8139-AB489A3AA790}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="ParserTest.ParserTest_Comments.LineParser_ValidCommentDefinition_ReturnsComment" /><Add Test="ParserTest.ParserTest_Comments.LineParser_ValidCommentDefinition_nospaceatcolon_ReturnsComment" /><Add Test="ParserTest.ParserTest_Comments.LineParser_InValidCommentDefinition_ReturnsInvalidSyntacticElement" /></Playlist>
